@@ -1,0 +1,31 @@
+@import '@styles/variables/all';
+@import '@styles/mixins/all';
+
+// GRAMATIKA FONT
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: 
+    url('../assets/fonts/Gramatika/sofia-black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: 
+    url('../assets/fonts/Gramatika/sofia-bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: 
+    url('../assets/fonts/Gramatika/sofia-reg.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
